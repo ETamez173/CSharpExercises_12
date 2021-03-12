@@ -1,0 +1,8 @@
+﻿'CSharpExercises_12.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Private.CoreLib.dll'. 
+'CSharpExercises_12.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Owner\Source\Repos\CSharpExercises_12\bin\Debug\netcoreapp3.1\CSharpExercises_12.dll'. Symbols loaded.
+'CSharpExercises_12.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Runtime.dll'. 
+'CSharpExercises_12.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Console.dll'. 
+'CSharpExercises_12.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Threading.dll'. 
+'CSharpExercises_12.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Runtime.Extensions.dll'. 
+'CSharpExercises_12.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.10\System.Text.Encoding.Extensions.dll'. 
+The program '[36536] CSharpExercises_12.exe' has exited with code 0 (0x0).
